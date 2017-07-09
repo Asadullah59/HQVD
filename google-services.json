@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "510202105970",
+    "firebase_url": "https://hq-video-downloader.firebaseio.com",
+    "project_id": "hq-video-downloader",
+    "storage_bucket": "hq-video-downloader.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510202105970:android:6bd61f5be0c62bf7",
+        "android_client_info": {
+          "package_name": "Com.Hqapp.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510202105970-rm8k87fen0qnodd0e00915d5gnp8odjr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7hkHEAKGgyxdbpHzYZ7b7KavCRpH0-0g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510202105970:android:24e5054bddc1d0d6",
+        "android_client_info": {
+          "package_name": "Com.HQdownloader.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510202105970-rm8k87fen0qnodd0e00915d5gnp8odjr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7hkHEAKGgyxdbpHzYZ7b7KavCRpH0-0g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510202105970:android:495733cc7e4e75ee",
+        "android_client_info": {
+          "package_name": "Com.hqvideodownloader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510202105970-rm8k87fen0qnodd0e00915d5gnp8odjr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7hkHEAKGgyxdbpHzYZ7b7KavCRpH0-0g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
